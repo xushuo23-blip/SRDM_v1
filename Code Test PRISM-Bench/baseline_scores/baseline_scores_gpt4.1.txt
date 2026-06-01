@@ -1,0 +1,32 @@
+PRISM-Bench Official Baseline Scores (GPT-4.1, 0-100 scale)
+======================================================================
+Source: PRISM-Bench leaderboard (https://prism-bench.github.io/)
+
+Model          : SD3-Medium (Stable Diffusion 3 Medium)
+Date           : 2025-09-10
+----------------------------------------------------------------------
+Category           Alignment   Aesthetic   Combined Avg
+----------------------------------------------------------------------
+Overall            65.6        65.2        65.4
+Imagination        61.0        65.6        63.3
+Entity             64.8        56.3        60.6
+Text Rendering     32.8        53.1        43.0
+Style              74.8        75.6        75.2
+Affection          78.7        80.3        79.5
+Composition        85.5        79.1        82.3
+Long Text          61.5        46.1        53.8
+
+
+Model          : SD3.5-Medium (Stable Diffusion 3.5 Medium)
+Date           : 2025-09-10
+----------------------------------------------------------------------
+Category           Alignment   Aesthetic   Combined Avg
+----------------------------------------------------------------------
+Overall            70.1        68.9        69.5
+Imagination        69.5        73.0        71.3
+Entity             72.8        63.7        68.3
+Text Rendering     33.3        50.1        41.7
+Style              77.4        80.3        78.9
+Affection          84.9        85.5        85.2
+Composition        89.4        79.2        84.3
+Long Text          63.3        50.5        56.9

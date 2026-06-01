@@ -1,0 +1,33 @@
+PRISM-Bench Baseline Scores (Qwen2.5-VL-7B, 0-100 scale)
+======================================================================
+Source: Self-evaluated
+
+Model          : SD3-Medium (Stable Diffusion 3 Medium)
+Date           : 2026-05-14
+----------------------------------------------------------------------
+Category               Alignment   Aesthetic  Combined Avg
+----------------------------------------------------------------------
+Overall                    59.9        71.3          65.6
+Imagination                49.4        49.8          49.6
+Entity                     58.4        66.8          62.6
+Text Rendering             45.2        73.1          59.1
+Style                      68.6        83.4          76.0
+Affection                  64.0        73.6          68.8
+Composition                74.5        87.3          80.9
+Long Text                  59.2        65.3          62.2
+
+
+Model          : SD3.5-Medium (Stable Diffusion 3.5 Medium)
+Date           : 2026-05-14
+----------------------------------------------------------------------
+Category               Alignment   Aesthetic  Combined Avg
+----------------------------------------------------------------------
+Overall                    61.0        73.6          67.3
+Imagination                49.2        54.9          52.1
+Entity                     64.2        68.6          66.4
+Text Rendering             43.9        76.3          60.1
+Style                      69.6        84.2          76.9
+Affection                  64.0        76.7          70.3
+Composition                75.5        85.9          80.7
+Long Text                  60.4        68.5          64.5
+

@@ -1,0 +1,33 @@
+PRISM-Bench Baseline Scores (DOUBAO, 0-100 scale)
+======================================================================
+Source: Self-evaluated
+
+Model          : SD3-Medium (Stable Diffusion 3 Medium)
+Date           : 2026-05-16
+----------------------------------------------------------------------
+Category               Alignment   Aesthetic  Combined Avg
+----------------------------------------------------------------------
+Overall                    57.5        55.9          56.7
+Imagination                52.9        52.2          52.5
+Entity                     59.2        49.6          54.4
+Text Rendering             27.8        45.4          36.6
+Style                      66.7        68.7          67.7
+Affection                  75.3        72.3          73.8
+Composition                73.3        62.7          68.0
+Long Text                  47.2        40.1          43.6
+
+
+Model          : SD3.5-Medium (Stable Diffusion 3.5 Medium)
+Date           : 2026-05-16
+----------------------------------------------------------------------
+Category               Alignment   Aesthetic  Combined Avg
+----------------------------------------------------------------------
+Overall                    60.9        60.0          60.4
+Imagination                56.4        58.9          57.6
+Entity                     63.6        52.5          58.0
+Text Rendering             34.2        48.2          41.2
+Style                      70.2        74.3          72.2
+Affection                  78.5        78.3          78.4
+Composition                74.7        66.3          70.5
+Long Text                  48.5        41.4          45.0
+
